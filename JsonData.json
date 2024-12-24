@@ -1,0 +1,23 @@
+[
+    {
+        "name": "lili",
+        "weight": "50",
+        "height": "160",
+        "birthday": "2024-12-12",
+        "time": "16:58"
+    },
+    {
+        "name": "Riri",
+        "weight": "60",
+        "height": "170",
+        "birthday": "2024-12-20",
+        "time": "16:58"
+    },
+    {
+        "name": "5",
+        "weight": "1",
+        "height": "1",
+        "birthday": "",
+        "time": ""
+    }
+]
